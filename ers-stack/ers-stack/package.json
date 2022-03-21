@@ -1,0 +1,19 @@
+{
+  "name": "ers-stack",
+  "version": "1.0.0",
+  "description": "A basic application made with Electron, React, and SQLite tech stack as a part of the post [Standalone application with Electron, React, and SQLite stack.](https://fmacedoo.medium.com/standalone-application-with-electron-react-and-sqlite-stack-9536a8b5a7b9) on Medium.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmacedoo/ers-stack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fmacedoo/ers-stack/issues"
+  },
+  "homepage": "https://github.com/fmacedoo/ers-stack#readme"
+}
